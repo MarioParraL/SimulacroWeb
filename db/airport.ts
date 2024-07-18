@@ -1,4 +1,4 @@
-import mongoose from "npm:mongoose@8.4.3";
+import mongoose from "npm:mongoose@8.5.1";
 import { Airport } from "../types.ts";
 
 const Schema = mongoose.Schema;
