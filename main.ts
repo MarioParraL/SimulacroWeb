@@ -1,4 +1,4 @@
-import mongoose from "npm:mongoose@8.4.3";
+import mongoose from "npm:mongoose@8.5.1";
 import express from "npm:express@4.19.2";
 import { load } from "https://deno.land/std@0.204.0/dotenv/mod.ts";
 import { addAirport } from "./resolvers/addAirport.ts";
