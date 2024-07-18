@@ -3,7 +3,6 @@
   "packages": {
     "specifiers": {
       "npm:express@4.19.2": "npm:express@4.19.2",
-      "npm:mongoose@8.4.3": "npm:mongoose@8.4.3",
       "npm:mongoose@8.5.1": "npm:mongoose@8.5.1"
     },
     "npm": {
